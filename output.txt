@@ -1,0 +1,41 @@
+FACTORIAL TESTS
+factorial(0) = 1
+factorial(1) = 1
+factorial(5) = 120
+factorial(10) = 3628800
+
+FIBONACCI TESTS
+
+Fibonacci(5)
+Naive Result: 5 | Calls: 15
+Memo Result: 5 | Calls: 9
+
+Fibonacci(10)
+Naive Result: 55 | Calls: 177
+Memo Result: 55 | Calls: 19
+
+Fibonacci(20)
+Naive Result: 6765 | Calls: 21891
+Memo Result: 6765 | Calls: 39
+
+Fibonacci(30)
+Naive Result: 832040 | Calls: 2692537
+Memo Result: 832040 | Calls: 59
+
+TOWER OF HANOI (N=3)
+Move disk 1 from A to C
+Move disk 2 from A to B
+Move disk 1 from C to B
+Move disk 3 from A to C
+Move disk 1 from B to A
+Move disk 2 from B to C
+Move disk 1 from A to C
+
+Total moves stored in Stack: 7
+
+BINARY SEARCH TESTS
+Search 7 -> Index: 3
+Search 1 -> Index: 0
+Search 13 -> Index: 6
+Search 2 -> Index: -1
+Search in empty list: -1
