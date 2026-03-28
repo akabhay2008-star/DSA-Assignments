@@ -1,4 +1,7 @@
 # Algorithmic Efficiency & Recursion Toolkit (AERT)
+# Name: Abhay Kumar
+# Roll No.: 2501730185
+# Section: A
 
 # PART A: Stack ADT
 class StackADT:
